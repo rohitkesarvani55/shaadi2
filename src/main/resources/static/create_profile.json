@@ -1,0 +1,67 @@
+{
+  "self": {
+    "firstName": "Rohit",
+    "lastName": "Kesarwani",
+    "age": 26,
+    "mb": "8105527054",
+    "email": "rohitkesarwani97@gmail.com",
+    "city": "Prayagraj",
+    "state": "UP",
+    "country": "INDIA",
+    "occupation": "",
+    "sector": "IT",
+    "income": {
+      "low": 4000000,
+      "high": 5000000
+    },
+    "gender": "male"
+  },
+  "education": [
+    {
+      "degree": "B.Tech",
+      "collage": "IIIT Jabalpur"
+    }
+  ],
+  "profileImg": {
+    "images": [
+      {
+        "url": "xyz.com",
+        "verified": true
+      }
+    ]
+  },
+  "relation": {
+    "fatherName": "Ashok Kesarwani",
+    "fatherOccupation": "Business",
+    "motherName": "Soniya Kesarwani",
+    "motherOccupation": "HouseWife",
+    "grandfatherName": "RamChandra Kesarwani",
+    "grandMotherName": "Jamuna Devi",
+    "familyIncomeRange": {
+      "low": 200000,
+      "high": 300000
+    }
+  },
+  "partnerPreference": {
+    "states": [
+      "UP"
+    ],
+    "cities": ["Prayagraj", "Gwalior"],
+    "ageCriteria": {
+      "low": 22,
+      "high": 26
+    },
+    "costIncludes": ["Kesarwani", "Agarwal", "Goyal"],
+    "income": {
+      "low": 1000000,
+      "high": 1500000
+    },
+    "isVerified": "true",
+    "education": [
+      {
+        "degree": "MCA",
+        "collage": "NIT Surathkal"
+      }
+    ]
+  }
+}
